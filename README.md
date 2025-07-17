@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/mcp-mirror-dmontgomery40-meta-mcp-server-badge.png)](https://mseep.ai/app/mcp-mirror-dmontgomery40-meta-mcp-server)
+
 # Meta MCP Server
 
 "Meta" because it's an MCP Server that Creates MCP Servers. And also because "suck it, Zuck, I got it first" (seriously though I made that connection after the fact).
